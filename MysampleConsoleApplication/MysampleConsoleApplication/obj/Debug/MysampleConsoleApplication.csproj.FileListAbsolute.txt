@@ -1,0 +1,13 @@
+c:\users\krish\documents\visual studio 2012\Projects\MysampleConsoleApplication\MysampleConsoleApplication\bin\Debug\MysampleConsoleApplication.exe.config
+c:\users\krish\documents\visual studio 2012\Projects\MysampleConsoleApplication\MysampleConsoleApplication\obj\Debug\MysampleConsoleApplication.csprojResolveAssemblyReference.cache
+c:\users\krish\documents\visual studio 2012\Projects\MysampleConsoleApplication\MysampleConsoleApplication\bin\Debug\MysampleConsoleApplication.exe
+c:\users\krish\documents\visual studio 2012\Projects\MysampleConsoleApplication\MysampleConsoleApplication\bin\Debug\MysampleConsoleApplication.pdb
+c:\users\krish\documents\visual studio 2012\Projects\MysampleConsoleApplication\MysampleConsoleApplication\obj\Debug\MysampleConsoleApplication.exe
+c:\users\krish\documents\visual studio 2012\Projects\MysampleConsoleApplication\MysampleConsoleApplication\obj\Debug\MysampleConsoleApplication.pdb
+c:\users\krish\documents\visual studio 2012\Projects\MysampleConsoleApplication\MysampleConsoleApplication\bin\Debug\FluentNHibernate.dll
+c:\users\krish\documents\visual studio 2012\Projects\MysampleConsoleApplication\MysampleConsoleApplication\bin\Debug\Iesi.Collections.dll
+c:\users\krish\documents\visual studio 2012\Projects\MysampleConsoleApplication\MysampleConsoleApplication\bin\Debug\NHibernate.dll
+c:\users\krish\documents\visual studio 2012\Projects\MysampleConsoleApplication\MysampleConsoleApplication\bin\Debug\FluentNHibernate.pdb
+c:\users\krish\documents\visual studio 2012\Projects\MysampleConsoleApplication\MysampleConsoleApplication\bin\Debug\FluentNHibernate.xml
+c:\users\krish\documents\visual studio 2012\Projects\MysampleConsoleApplication\MysampleConsoleApplication\bin\Debug\Iesi.Collections.xml
+c:\users\krish\documents\visual studio 2012\Projects\MysampleConsoleApplication\MysampleConsoleApplication\bin\Debug\NHibernate.xml
